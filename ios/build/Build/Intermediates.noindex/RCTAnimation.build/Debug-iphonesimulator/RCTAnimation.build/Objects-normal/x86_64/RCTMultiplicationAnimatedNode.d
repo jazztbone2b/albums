@@ -1,0 +1,5 @@
+dependencies: \
+  /Users/collin-imac/Desktop/albums/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.m \
+  /Users/collin-imac/Desktop/albums/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.h \
+  /Users/collin-imac/Desktop/albums/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/collin-imac/Desktop/albums/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h
