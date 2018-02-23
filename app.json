@@ -2,3 +2,7 @@
   "name": "albums",
   "displayName": "albums"
 }
+"ios": {
+  "bundleIdentifier": "your bundle identifier",
+  "supportsTablet": true
+},

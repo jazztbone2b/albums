@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		B6mE2AjaldZ9qP3Ke8E4b6MLcF8=
+		ChigKPWbmsGs63ibHlfmpGgLdx8=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
@@ -51,7 +51,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		DB6swQOeQNnctaEaGxEXTCnG0lc=
+		S/mIzjEIMtQcYJ9Rdulp6mfYVo0=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -67,15 +67,15 @@
 		</data>
 		<key>PlugIns/albumsTests.xctest/Info.plist</key>
 		<data>
-		6WcVeJ5fA2DwrOaYAfNSqIE9pus=
+		RLwG4+Are7NRuqKXv7uXg8E99yU=
 		</data>
 		<key>PlugIns/albumsTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		uhJwjiTi6XlBBppdWTyHw2zrGFQ=
+		IVC5t1ta4kYu0xbl4W67YiMh9nM=
 		</data>
 		<key>PlugIns/albumsTests.xctest/albumsTests</key>
 		<data>
-		HisDQeRRvVccMzIzYKsn629zHj0=
+		7IRI8mRG6K4MiWtxIo/3HosWHzg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -84,11 +84,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			B6mE2AjaldZ9qP3Ke8E4b6MLcF8=
+			ChigKPWbmsGs63ibHlfmpGgLdx8=
 			</data>
 			<key>hash2</key>
 			<data>
-			rlekERshKX0gGbqqXJt/lIKJC0Qb7Y03L1fY0Kbqzoc=
+			w8uziDw22IumwORXQWmoZvzxzWw4f3tJ+fFLHg6AjP0=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
@@ -218,33 +218,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6WcVeJ5fA2DwrOaYAfNSqIE9pus=
+			RLwG4+Are7NRuqKXv7uXg8E99yU=
 			</data>
 			<key>hash2</key>
 			<data>
-			o4uIeF/bAeq5mCD8TB442e4YjiBpMdr2w8S/aEajKac=
+			v8Sx6F+BEZHzbXagmLTy5OM1WMeyzNe142Z9/Ki2BJw=
 			</data>
 		</dict>
 		<key>PlugIns/albumsTests.xctest/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uhJwjiTi6XlBBppdWTyHw2zrGFQ=
+			IVC5t1ta4kYu0xbl4W67YiMh9nM=
 			</data>
 			<key>hash2</key>
 			<data>
-			hNAC/5cmwd86F30FIvadRQF+Qz/xGjvIHSO3ISmIljw=
+			u7fNFHkK1VXt6FJ5upbe6NvvI350/KYwL2Wsfjc4tcU=
 			</data>
 		</dict>
 		<key>PlugIns/albumsTests.xctest/albumsTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HisDQeRRvVccMzIzYKsn629zHj0=
+			7IRI8mRG6K4MiWtxIo/3HosWHzg=
 			</data>
 			<key>hash2</key>
 			<data>
-			Zgj+KDdhaZmA5RMiqxPNe32Cz7D/FQC7bVos849rp30=
+			fDlyh/Vhn+L5FLNTydMEzTd9zO6mhp/ofgO2J2V3U+A=
 			</data>
 		</dict>
 	</dict>
